@@ -12,5 +12,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }} # Ftp password Ex:
           host: ${{ secrets.FTP_HOST }} # Ftp host Ex:
           port: ${{ secrets.FTP_PORT }} # (optional) FTP port, defaults to 21
-          path: dist # Folder to deploy Ex: apps/frontend/dist or dist
+          path: public_html/vue/ # Folder to deploy Ex: apps/frontend/dist or dist
           into: web # Where to place the files in your ftp
