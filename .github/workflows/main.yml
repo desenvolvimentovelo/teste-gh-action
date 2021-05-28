@@ -1,9 +1,23 @@
-name: Deploy app
-on: [push]
+on: push
+name: 🚀 Deploy website on push
 jobs:
-  deploy:
+  web-deploy:
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v2
+
+      - name: Use Node.js 12
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: "12"
+
+      - name: 🔨 Build Project
+        run: |
+          npm install
+          npm run build
+
       - uses: actions/checkout@master
       - name: Deploy app
         uses: isthatcentered/dist-to-ftp@master
@@ -11,6 +25,5 @@ jobs:
           user: ${{ secrets.FTP_USER }} # Ftp user Ex:
           password: ${{ secrets.FTP_PASSWORD }} # Ftp password Ex:
           host: ${{ secrets.FTP_HOST }} # Ftp host Ex:
-          port: ${{ secrets.FTP_PORT }} # (optional) FTP port, defaults to 21
-          path: public_html/vue/ # Folder to deploy Ex: apps/frontend/dist or dist
+          path: dist # Folder to deploy Ex: apps/frontend/dist or dist
           into: web # Where to place the files in your ftp
