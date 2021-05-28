@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="45" viewBox="0 0 64 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_618" data-name="Retângulo 618" width="64" height="45" transform="translate(6.197 10)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_24" data-name="Grupo de máscara 24" transform="translate(-6.197 -10)" clip-path="url(#clip-path)">
+    <g id="credit-card-svgrepo-com" transform="translate(5.497 -0.232)">
+      <g id="Grupo_652" data-name="Grupo 652" transform="translate(0 0)">
+        <path id="Caminho_1256" data-name="Caminho 1256" d="M12.348,31.121v5.217H65.375V31.121a2.155,2.155,0,0,0-2.152-2.152H14.5A2.154,2.154,0,0,0,12.348,31.121Z" transform="translate(-6.107 -13.091)" fill="none"/>
+        <path id="Caminho_1257" data-name="Caminho 1257" d="M58.986,21.63l-2.4-10.256c0-.007,0-.015-.005-.022a2.155,2.155,0,0,0-2.567-1.635L6.446,20.276a2.155,2.155,0,0,0-1.634,2.568L7.087,33.189V27.7a6.074,6.074,0,0,1,6.067-6.067H58.986Z" transform="translate(-4.76 -9.666)" fill="none"/>
+        <path id="Caminho_1258" data-name="Caminho 1258" d="M12.348,58.829v7.539A2.155,2.155,0,0,0,14.5,68.52H63.222a2.155,2.155,0,0,0,2.152-2.152V52.818H12.348Z" transform="translate(-6.107 -17.322)" fill="none"/>
+        <rect id="Retângulo_619" data-name="Retângulo 619" width="53.027" height="4.418" transform="translate(6.241 27.163)" fill="#40b540"/>
+        <path id="Caminho_1259" data-name="Caminho 1259" d="M63.629,24.323l-.092,0c.006-.008-4.7-.138-4.679-.088L11.631,26.14c-3.266.725-1.45,2.347-4.058,4.15L7.586,54v7.3a6.074,6.074,0,0,0,6.067,6.067H62.375a6.074,6.074,0,0,0,6.067-6.067V30.278A5.992,5.992,0,0,0,63.629,24.323Zm-1.254,3.8a2.155,2.155,0,0,1,2.152,2.152V35.5H11.5V30.278a2.155,2.155,0,0,1,2.152-2.152Zm2.153,15.7H11.5V39.41H64.528ZM7.586,30.278v5.493l3.865-5.527c-.037-.057-1.286-3.164,2.213-2.072l48.273-.687c1.158-.257-2.728-3.265-2.727-3.268s-14.583.058-14.582.052l15.031-.017L13.653,24.3A6,6,0,0,0,7.586,30.278ZM64.528,61.293a2.155,2.155,0,0,1-2.152,2.152H13.653A2.155,2.155,0,0,1,11.5,61.293V47.743H64.528Z" transform="translate(-5.26 -12.248)" fill="#256425"/>
+      </g>
+    </g>
+  </g>
+</svg>

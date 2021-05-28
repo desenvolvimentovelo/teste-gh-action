@@ -1,0 +1,209 @@
+// -----------------------------------------------------------------------------
+// This file contains classes global.
+// -----------------------------------------------------------------------------
+
+@import "components/variables";
+
+.btnClose {
+  position: absolute !important;
+  top: 20px;
+  right: 25px;
+  cursor: pointer;
+  transition: ease-in-out 0.3s;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+@media (max-width: 600px) {
+  .w-xs-100 {
+    width: 100% !important;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 960px) {
+  .w-sm-100 {
+    width: 100% !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1264px) {
+  .w-md-100 {
+    width: 100% !important;
+  }
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.h-auto {
+  height: auto;
+}
+
+@media (min-width: 600px) {
+  .todos {
+    border-left: 5px solid #666;
+  }
+
+  .aguardandoDocumentos {
+    border-left: 5px solid #172e96;
+  }
+
+  .avaliacao {
+    border-left: 5px solid #c2ce1b;
+  }
+
+  .pagamento {
+    border-left: 5px solid #9b3ee7;
+  }
+
+  .ativada {
+    border-left: 5px solid #36a2eb;
+  }
+
+  .iniciada {
+    border-left: 5px solid #ff00c3;
+  }
+
+  .reprovado {
+    border-left: 5px solid #f36c33;
+  }
+
+  .assinatura {
+    border-left: 5px solid #bb840e;
+  }
+
+  .afiancado {
+    border-left: 5px solid #40b540;
+  }
+
+  .cancelado {
+    border-left: 5px solid #f30000;
+  }
+  .vigor {
+    border-left: 5px solid #40b540;
+  }
+  .exonerado {
+    border-left: 5px solid #eec591;
+  }
+  .analise {
+    border-left: 5px solid #0d8e69;
+  }
+  .ocorrência {
+    border-left: 5px solid #567e0c8f;
+  }
+  .Conferência {
+    border-left: 5px solid #12a0f3;
+  }
+}
+.regular {
+  border-left: 5px solid #40b540;
+}
+.co-responsible {
+  border-radius: 8px !important;
+  border-top: 8px solid #e89e1d !important;
+}
+
+.responsible {
+  border-radius: 8px !important;
+  border-top: 8px solid #5fb15c !important;
+}
+
+.border-radius-checkout {
+  border-radius: 8px !important;
+}
+
+.input-label {
+  margin-left: 5px;
+}
+
+.v-text-field .v-input__control >>> fieldset {
+  border-color: #4abc42;
+}
+
+.v-text-field--outlined:not(.v-input--is-focused):not(.v-input--has-state)
+  > .v-input__control
+  > .v-input__slot
+  fieldset {
+  color: #4abc42 !important;
+}
+
+.theme--light.v-text-field--outlined:not(.v-input--has-state)
+  > .v-input__control
+  > .v-input__slot
+  fieldset {
+  color: #4abc42 !important;
+}
+
+.btn-error {
+  border-width: 2px !important;
+  border-color: #dc3545 !important;
+}
+
+.text-light {
+  color: #707070 !important;
+}
+
+.super-title1 {
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.title1 {
+  font-size: 18px !important;
+}
+
+.title2 {
+  font-size: 16px !important;
+}
+
+.text1 {
+  font-size: 14px !important;
+}
+
+.title3 {
+  font-size: 13.4px !important;
+}
+
+.pt-0-important {
+  padding-top: 0px !important;
+}
+
+.pb-0-important {
+  padding-bottom: 0px !important;
+}
+
+.mb-0-important {
+  margin-bottom: 0px !important;
+}
+
+@media screen and (max-width: 640px) {
+  .ui-button {
+    display: contents;
+  }
+}
+
+.swal-title {
+  color: #707070 !important;
+  text-shadow: none;
+}
+
+.swal-text {
+  color: black;
+}
+
+.swal-footer {
+  text-align-last: center;
+}
+
+.swal-button {
+  background-color: #40b540;
+}
+
+.ballColorStatus {
+  width: 10px;
+  height: 10px;
+  border-radius: 50px;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "route": "/escolher-tipo-proposta"
+  },
+  {
+    "id": 2,
+    "route": "/dados-inquilino"
+  },
+  {
+    "id": 3,
+    "route": "/pacote-locacao"
+  },
+  {
+    "id": 4,
+    "route": "/dados-imovel"
+  },
+  {
+    "id": 5,
+    "route": "/checkout"
+  }
+]

@@ -1,0 +1,48 @@
+.p-card-price {
+  background: $light;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 5px 10px 0 #e3e8eb,
+    0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  color: $light;
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  width: 23%;
+  transition: ease-in-out 0.2s;
+  height: 40px;
+  position: relative;
+  cursor: pointer;
+  border-color: #40b540;
+  border-width: 1px;
+  border-style: solid;
+
+  &:hover {
+    background-color: #85ed857b;
+  }
+
+  .p-card-heading {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+
+    .p-card__price {
+      font-size: 20px;
+      color: #394956;
+      margin: 5px 0;
+      display: flex;
+      font-weight: 400;
+
+      .currency {
+        font-size: 15px;
+        margin-top: 4px;
+        margin-right: 4px;
+      }
+    }
+  }
+
+  &.active{
+    background-color: #85ed857b;
+    border-width: 2px;
+  }
+}

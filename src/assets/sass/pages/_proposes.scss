@@ -1,0 +1,52 @@
+.row-table {
+  height: 85px;
+}
+
+.data-table-head {
+  padding-left: 5.5rem !important;
+}
+
+.sizeIcons {
+  font-size: 1.1rem;
+}
+
+table {
+  td {
+    &:first-child {
+      padding-left: 0 !important;
+    }
+  }
+}
+
+.v-tab {
+  position: relative !important;
+
+  &::before {
+    content: "" !important;
+
+    position: absolute !important;
+    bottom: 0 !important;
+
+    width: 100% !important;
+    height: 1px !important;
+    background: #ccc !important;
+    opacity: 1 !important;
+
+    top: auto !important;
+  }
+}
+
+.v-toolbar {
+  &__content {
+    width: 100%;
+    height: auto !important;
+  }
+
+  button {
+    width: 100%;
+  }
+}
+
+.v-sheet {
+  height: auto !important;
+}

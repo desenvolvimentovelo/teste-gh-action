@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="755" height="431" viewBox="0 0 755 431">
+    <defs>
+      <filter id="back-cartao" x="52" y="45" width="703" height="386" filterUnits="userSpaceOnUse">
+        <feOffset dx="12" dy="19" input="SourceAlpha"/>
+        <feGaussianBlur stdDeviation="10" result="blur"/>
+        <feFlood flood-opacity="0.161"/>
+        <feComposite operator="in" in2="blur"/>
+        <feComposite in="SourceGraphic"/>
+      </filter>
+      <linearGradient id="linear-gradient" x1="0.15" y1="-0.26" x2="0.735" y2="1.32" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#78f078"/>
+        <stop offset="0.958" stop-color="#346a34"/>
+        <stop offset="1" stop-color="#316431"/>
+      </linearGradient>
+      <clipPath id="clip-path">
+        <rect id="Retângulo_352" data-name="Retângulo 352" width="92" height="46" transform="translate(802 367)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      </clipPath>
+      <clipPath id="clip-path-2">
+        <rect id="Retângulo_459" data-name="Retângulo 459" width="132" height="52" transform="translate(10041 8671)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      </clipPath>
+      <clipPath id="clip-path-3">
+        <rect id="Retângulo_463" data-name="Retângulo 463" width="123.314" height="43.809"/>
+      </clipPath>
+      <clipPath id="clip-path-6">
+        <rect id="Retângulo_460" data-name="Retângulo 460" width="121.443" height="28.575"/>
+      </clipPath>
+      <clipPath id="clip-path-7">
+        <rect id="Retângulo_468" data-name="Retângulo 468" width="255" height="217" transform="translate(10273 8671.021)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      </clipPath>
+      <clipPath id="clip-path-8">
+        <rect id="Retângulo_473" data-name="Retângulo 473" width="228.012" height="191.377"/>
+      </clipPath>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#back-cartao)">
+      <rect id="back-cartao-2" data-name="back-cartao" width="643" height="326" rx="20" transform="translate(70 56)" fill="#f6f6f6"/>
+    </g>
+    <rect id="back-cartao-over" width="643" height="93" transform="translate(70 126)" fill="#e1e1e1"/>
+    <rect id="Retângulo_350" data-name="Retângulo 350" width="643" height="326" rx="20" fill="url(#linear-gradient)"/>
+    <g id="Grupo_298" data-name="Grupo 298" transform="translate(-416 -280)">
+      <circle id="Elipse_162" data-name="Elipse 162" cx="1.5" cy="1.5" r="1.5" transform="translate(855 595)" fill="#fff"/>
+      <circle id="Elipse_163" data-name="Elipse 163" cx="1.5" cy="1.5" r="1.5" transform="translate(855 585)" fill="#fff" opacity="0.9"/>
+      <circle id="Elipse_164" data-name="Elipse 164" cx="1.5" cy="1.5" r="1.5" transform="translate(855 575)" fill="#fff" opacity="0.8"/>
+      <circle id="Elipse_165" data-name="Elipse 165" cx="1.5" cy="1.5" r="1.5" transform="translate(855 565)" fill="#fff" opacity="0.7"/>
+      <circle id="Elipse_166" data-name="Elipse 166" cx="1.5" cy="1.5" r="1.5" transform="translate(855 555)" fill="#fff" opacity="0.6"/>
+      <circle id="Elipse_167" data-name="Elipse 167" cx="1.5" cy="1.5" r="1.5" transform="translate(845 595)" fill="#fff"/>
+      <circle id="Elipse_172" data-name="Elipse 172" cx="1.5" cy="1.5" r="1.5" transform="translate(845 545)" fill="#fff" opacity="0.5"/>
+      <circle id="Elipse_173" data-name="Elipse 173" cx="1.5" cy="1.5" r="1.5" transform="translate(845 535)" fill="#fff" opacity="0.4"/>
+      <circle id="Elipse_175" data-name="Elipse 175" cx="1.5" cy="1.5" r="1.5" transform="translate(845 585)" fill="#fff" opacity="0.9"/>
+      <circle id="Elipse_176" data-name="Elipse 176" cx="1.5" cy="1.5" r="1.5" transform="translate(845 575)" fill="#fff" opacity="0.8"/>
+      <circle id="Elipse_177" data-name="Elipse 177" cx="1.5" cy="1.5" r="1.5" transform="translate(845 565)" fill="#fff" opacity="0.7"/>
+      <circle id="Elipse_178" data-name="Elipse 178" cx="1.5" cy="1.5" r="1.5" transform="translate(845 555)" fill="#fff" opacity="0.6"/>
+      <circle id="Elipse_179" data-name="Elipse 179" cx="1.5" cy="1.5" r="1.5" transform="translate(865 595)" fill="#fff"/>
+      <circle id="Elipse_180" data-name="Elipse 180" cx="1.5" cy="1.5" r="1.5" transform="translate(865 545)" fill="#fff" opacity="0.5"/>
+      <circle id="Elipse_181" data-name="Elipse 181" cx="1.5" cy="1.5" r="1.5" transform="translate(865 535)" fill="#fff" opacity="0.4"/>
+      <circle id="Elipse_182" data-name="Elipse 182" cx="1.5" cy="1.5" r="1.5" transform="translate(865 585)" fill="#fff" opacity="0.9"/>
+      <circle id="Elipse_183" data-name="Elipse 183" cx="1.5" cy="1.5" r="1.5" transform="translate(865 575)" fill="#fff" opacity="0.8"/>
+      <circle id="Elipse_184" data-name="Elipse 184" cx="1.5" cy="1.5" r="1.5" transform="translate(865 565)" fill="#fff" opacity="0.7"/>
+      <circle id="Elipse_185" data-name="Elipse 185" cx="1.5" cy="1.5" r="1.5" transform="translate(865 555)" fill="#fff" opacity="0.6"/>
+    </g>
+    <text id="_5486_9189_1338_9032" data-name="5486 9189 1338 9032" transform="translate(54 208)" fill="#fff" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5486 9189 1338 9032</tspan></text>
+    <text id="NOME" transform="translate(54 263)" fill="#fff" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">NOME</tspan></text>
+    <text id="Hannah_Isabelly_Lopes" data-name="Hannah Isabelly Lopes" transform="translate(54 298)" fill="#fff" font-size="21" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Hannah Isabelly Lopes</tspan></text>
+    <text id="VAL" transform="translate(283 263)" fill="#fff" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">VAL</tspan></text>
+    <text id="_11_25" data-name="11/25" transform="translate(283 298)" fill="#fff" font-size="21" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">11/25</tspan></text>
+    <text id="CVV" transform="translate(359 263)" fill="#fff" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CVV</tspan></text>
+    <text id="_555" data-name="555" transform="translate(359 298)" fill="#fff" font-size="21" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">555</tspan></text>
+    <g id="Grupo_15" data-name="Grupo 15" transform="translate(-759 -331)" clip-path="url(#clip-path)">
+      <g id="Forma_de_Pagamento2-02" data-name="Forma de Pagamento2-02" transform="translate(844.573 389.884)">
+        <g id="Forma_de_Pagamento2-02-2" data-name="Forma de Pagamento2-02" transform="translate(-37.135 -22.884)">
+          <g id="Grupo_117" data-name="Grupo 117">
+            <path id="Caminho_435" data-name="Caminho 435" d="M81.232,25.584A22.964,22.964,0,0,1,89.9,7.624,22.518,22.518,0,0,0,75.684,2.7a22.884,22.884,0,1,0,0,45.768A23.228,23.228,0,0,0,89.9,43.545,22.86,22.86,0,0,1,81.232,25.584Z" transform="translate(-52.8 -2.7)" fill="#e30d17"/>
+            <ellipse id="Elipse_191" data-name="Elipse 191" cx="8.668" cy="17.961" rx="8.668" ry="17.961" transform="translate(28.501 4.924)" fill="#eb610a"/>
+            <path id="Caminho_436" data-name="Caminho 436" d="M157.477,53.2v-.693H157.2V52.3h.763v.208h-.277V53.2Zm1.456,0v-.624l-.208.485h-.208l-.208-.485V53.2H158.1v-.832h.277l.208.555.208-.555h.277V53.2Z" transform="translate(-84.803 -17.904)" fill="#f69f00"/>
+            <path id="Caminho_437" data-name="Caminho 437" d="M120.516,2.7A23.228,23.228,0,0,0,106.3,7.624a22.941,22.941,0,0,1,0,35.921,22.518,22.518,0,0,0,14.216,4.924,22.884,22.884,0,0,0,0-45.768Z" transform="translate(-69.2 -2.7)" fill="#f69f00"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_de_máscara_16" data-name="Grupo de máscara 16" transform="translate(-9549 -8412)" clip-path="url(#clip-path-2)">
+      <g id="escrito_2" transform="translate(10102.657 8697)">
+        <g id="escrito_2-2" data-name="escrito_2" transform="translate(-61.657 -21.905)">
+          <g id="Logo_Horizontal_1_">
+            <g id="Grupo_263" data-name="Grupo 263">
+              <g id="Grupo_262" data-name="Grupo 262" clip-path="url(#clip-path-3)">
+                <g id="Grupo_261" data-name="Grupo 261" clip-path="url(#clip-path-3)">
+                  <g id="Grupo_260" data-name="Grupo 260" opacity="0.97" clip-path="url(#clip-path-3)">
+                    <g id="Grupo_259" data-name="Grupo 259" transform="translate(1.904 10.345)">
+                      <g id="Grupo_258" data-name="Grupo 258" clip-path="url(#clip-path-6)">
+                        <path id="Caminho_482" data-name="Caminho 482" d="M12.14,28.188,0,.371H6.215l8.7,21.209L23.626.371h6.215L17.7,28.188Zm21.869,0V.371H57.6V5.32H39.624v5.555H55.541v4.643H39.624v7.737h18.35v4.933Zm30.2,0V.371h5.62V23.239H85.944v4.949ZM89.747,14.2h0A14.14,14.14,0,0,1,90.9,8.43,13.19,13.19,0,0,1,94.134,3.94a14.744,14.744,0,0,1,5-2.908,20.734,20.734,0,0,1,12.915,0,14.716,14.716,0,0,1,5.014,2.908,13.1,13.1,0,0,1,3.23,4.491,14.071,14.071,0,0,1,1.157,5.767A14.344,14.344,0,0,1,120.291,20a13.337,13.337,0,0,1-3.23,4.551,14.914,14.914,0,0,1-5.014,2.963,20.326,20.326,0,0,1-12.915,0,14.945,14.945,0,0,1-5-2.963A13.351,13.351,0,0,1,90.9,20,14.452,14.452,0,0,1,89.747,14.2m5.626,0h0a9.347,9.347,0,0,0,.775,3.879,8.438,8.438,0,0,0,2.139,2.946,9.725,9.725,0,0,0,3.241,1.877,12.878,12.878,0,0,0,8.141,0,9.567,9.567,0,0,0,3.23-1.877,8.663,8.663,0,0,0,2.144-2.946,9.313,9.313,0,0,0,.78-3.879,9.236,9.236,0,0,0-.78-3.863A8.4,8.4,0,0,0,112.9,7.443a9.285,9.285,0,0,0-3.23-1.806,13.629,13.629,0,0,0-8.141,0,9.436,9.436,0,0,0-3.241,1.806,8.184,8.184,0,0,0-2.139,2.892,9.217,9.217,0,0,0-.775,3.863" transform="translate(0 0)" fill="#fff"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_de_máscara_17" data-name="Grupo de máscara 17" transform="translate(-9843 -8644.021)" clip-path="url(#clip-path-7)">
+      <g id="logo_2" transform="translate(10387.006 8775.017)">
+        <g id="logo_2-2" data-name="logo_2" transform="translate(-114.006 -95.688)">
+          <g id="Logo_Horizontal_1_2" data-name="Logo_Horizontal_1_">
+            <g id="Grupo_276" data-name="Grupo 276">
+              <g id="Grupo_275" data-name="Grupo 275" clip-path="url(#clip-path-8)">
+                <g id="Grupo_274" data-name="Grupo 274" clip-path="url(#clip-path-8)">
+                  <g id="Grupo_271" data-name="Grupo 271" clip-path="url(#clip-path-8)">
+                    <path id="Caminho_484" data-name="Caminho 484" d="M14.429,63.141c0,61.663,51.972,111.646,116.088,111.646V158.841c-54.946,0-99.507-42.857-99.507-95.7Z" transform="translate(13.106 16.614)" fill="#fff"/>
+                  </g>
+                  <g id="Grupo_272" data-name="Grupo 272" clip-path="url(#clip-path-8)">
+                    <path id="Caminho_485" data-name="Caminho 485" d="M114.734,37.317c-36.631,0-66.322,28.555-66.322,63.784s29.691,63.808,66.322,63.808v15.922c-45.8,0-82.927-35.706-82.927-79.754s37.126-79.73,82.927-79.73Z" transform="translate(28.889 -21.347)" fill="#fff"/>
+                  </g>
+                  <g id="Grupo_273" data-name="Grupo 273" clip-path="url(#clip-path-8)">
+                    <path id="Caminho_486" data-name="Caminho 486" d="M132.1,85.921c0-17.615-14.846-31.892-33.161-31.892S65.777,68.307,65.777,85.921s14.846,31.892,33.161,31.892V133.76C71.453,133.76,49.2,112.331,49.2,85.9S71.453,38.059,98.938,38.059,148.68,59.464,148.68,85.9Z" transform="translate(44.684 -6.167)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>

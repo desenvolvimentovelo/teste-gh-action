@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="703" height="386" viewBox="0 0 703 386">
+  <defs>
+    <filter id="back-cartao" x="0" y="0" width="703" height="386" filterUnits="userSpaceOnUse">
+      <feOffset dx="12" dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#back-cartao)">
+    <rect id="back-cartao-2" data-name="back-cartao" width="643" height="326" rx="20" transform="translate(18 11)" fill="#f6f6f6"/>
+  </g>
+  <rect id="back-cartao-over" width="643" height="93" transform="translate(18 81)" fill="#e1e1e1"/>
+</svg>

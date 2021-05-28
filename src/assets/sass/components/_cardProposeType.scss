@@ -1,0 +1,53 @@
+.p-card-propose-type {
+  background: $light;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 5px 10px 0 #e3e8eb,
+    0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  color: $light;
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  width: 35%;
+  max-width: 264px;
+  height: auto;
+  transition: ease-in-out 0.3s;
+  position: relative;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  .p-card-heading {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+
+    .p-card-icon {
+      color: #333;
+      font-size: 8rem;
+      width: 70px;
+      height: 70px;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 100px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .p-card__title {
+      text-transform: uppercase;
+      color: #394956;
+      font-weight: 500;
+      font-size: large;
+    }
+
+    .p-card_subtitle {
+      color: #394956;
+      max-width: 65%;
+    }
+  }
+}
