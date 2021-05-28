@@ -45,5 +45,5 @@ jobs:
           user: ${{ secrets.FTP_USER }} # Ftp user Ex:
           password: ${{ secrets.FTP_PASSWORD }} # Ftp password Ex:
           host: ${{ secrets.FTP_HOST }} # Ftp host Ex:
-          path: dist # Folder to deploy Ex: apps/frontend/dist or dist
+          path: public_html/vue/ # Folder to deploy Ex: apps/frontend/dist or dist
           into: web # Where to place the files in your ftp
