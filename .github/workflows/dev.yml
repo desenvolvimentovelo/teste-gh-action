@@ -12,15 +12,15 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
 
+      - name: Use Node.js 12
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: "12"
+
       - name: 🔨 Build Project
         run: |
           npm install
           npm run build
-
-      - name: 📂 Enter the folder
-        run: |
-          cd dist
-        shell: bash
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
